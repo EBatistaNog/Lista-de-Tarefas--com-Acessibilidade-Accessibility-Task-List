@@ -1,6 +1,7 @@
 # Lista de Tarefas com Acessibilidade
 
 Este é um aplicativo de lista de tarefas desenvolvido com React e TypeScript, com foco em acessibilidade para pessoas com dislexia. As palavras das tarefas são separadas em sílabas para facilitar a leitura.
+![image](https://github.com/user-attachments/assets/415b30f4-fea6-4d85-a86f-c200052d4ba1)
 
 ## Como executar 
 
