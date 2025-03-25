@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    // Alvo ESNext (ou ES2020, Node16, etc.)
+    "target": "esnext",
+
+    // Módulo ESNext (ou node16)
+    "module": "esnext",
+
+    // Permite resolver módulos ESM do Node
+    "moduleResolution": "nodenext", // ou "node16"
+
+    // Boas práticas para CommonJS/ESM
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
+    // Importa definições de tipos para Node e Vite
+    "types": ["node", "vite/client"],
+
+    // Se você usa React
+    "jsx": "react"
+  }
+}
